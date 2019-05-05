@@ -1,0 +1,10 @@
+C:\Users\roads\source\repos\GamePx\GamePx\bin\Debug\GamePx.exe.config
+C:\Users\roads\source\repos\GamePx\GamePx\bin\Debug\GamePx.exe
+C:\Users\roads\source\repos\GamePx\GamePx\bin\Debug\GamePx.pdb
+C:\Users\roads\source\repos\GamePx\GamePx\obj\Debug\GamePx.csprojAssemblyReference.cache
+C:\Users\roads\source\repos\GamePx\GamePx\obj\Debug\GamePx.Space.resources
+C:\Users\roads\source\repos\GamePx\GamePx\obj\Debug\GamePx.Properties.Resources.resources
+C:\Users\roads\source\repos\GamePx\GamePx\obj\Debug\GamePx.csproj.GenerateResource.cache
+C:\Users\roads\source\repos\GamePx\GamePx\obj\Debug\GamePx.csproj.CoreCompileInputs.cache
+C:\Users\roads\source\repos\GamePx\GamePx\obj\Debug\GamePx.exe
+C:\Users\roads\source\repos\GamePx\GamePx\obj\Debug\GamePx.pdb
